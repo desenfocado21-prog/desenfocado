@@ -1,5 +1,8 @@
 # DESENFOCADO — sitio web
 
+## Paleta visual
+La web usa negro como base en todas las secciones, con acentos rosa eléctrico, turquesa, violeta, naranja y lima. Las tarjetas de bebidas tienen acentos de color distintos.
+
 ## Archivos
 - `index.html`: contenido, secciones, nombres y descripciones.
 - `styles.css`: colores, tipografía y diseño adaptable a móvil.
