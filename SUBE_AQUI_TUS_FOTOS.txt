@@ -1,0 +1,1 @@
+Coloca en esta carpeta las fotos de la web. Consulta README.txt para ver los nombres esperados.
